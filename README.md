@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-English-men for my money: or, A pleasant comedy, called, A woman will haue her willHaughton, William
+
+1. The Actors names.
+
 #####Body#####
-English-men for my money: or, A pleasant comedy, called, A woman will haue her willHaughton, William
+Enter PISARO.Piſaro.HOw ſmugge this gray-eyde Morning ſeemes to bee,A pleaſant ſight; but yet more p
 **Types of content**
 
   * There are 1654 **verse** lines!
